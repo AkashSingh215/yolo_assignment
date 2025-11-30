@@ -22,7 +22,7 @@ yolo_assignment/
 ├─ bash           (bash.sh)  
 ├─ README         (README.md)  
 ├─ requirements   (requirements.txt)  
-└─ yolo11l.pt
+└─ 
 ```
 
 ---
@@ -72,3 +72,4 @@ This script automatically:
 * Saves CSV annotations to `annotations/`
 
 All outputs included in this repository were generated using this script. Re-run only if needed.
+
